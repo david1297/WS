@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/09/11 09:30:19.609,C:\Proyectos\WS\Ws.dproj=C:\Proyectos\WS\WebServiceSAI.dproj</Transaction>
+    <Transaction>2018/09/11 09:30:26.692,C:\Proyectos\WS\UClasesPedido.pas=</Transaction>
+    <Transaction>2018/09/11 09:31:01.569,C:\Proyectos\WS\WsContainer.dfm=C:\Proyectos\WS\ServerContainerUnit1.dfm</Transaction>
+    <Transaction>2018/09/11 09:31:01.569,C:\Proyectos\WS\WsContainer.pas=C:\Proyectos\WS\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2018/09/11 09:31:18.578,C:\Proyectos\WS\WsMetodos.dfm=C:\Proyectos\WS\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2018/09/11 09:31:18.578,C:\Proyectos\WS\WsMetodos.pas=C:\Proyectos\WS\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2018/09/11 09:31:28.941,C:\Proyectos\WS\Clases.pas=C:\Proyectos\WS\UClases.pas</Transaction>
+  </Transactions>
+</BorlandProject>

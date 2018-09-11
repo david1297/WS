@@ -1,0 +1,7 @@
+Database=D:\SAIOPEN\NUTRITEC2017.FDB
+User_Name=SYSDBA
+Password=masterkey
+Server=10.10.10.226
+Protocol=TCPIP
+DriverID=FB
+USER_FACT=FE
